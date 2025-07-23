@@ -24,5 +24,3 @@ app.listen(PORT, () => {
 });
 
 
-
-console.log("Git test commit");
