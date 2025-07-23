@@ -22,3 +22,7 @@ app.use("/api/admin", adminRoutes);
 app.listen(PORT, () => {
   console.log(`Server is now listeining to PORT ${PORT}`);
 });
+
+
+
+console.log("Git test commit");
